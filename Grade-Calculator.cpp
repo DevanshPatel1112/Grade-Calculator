@@ -34,7 +34,7 @@ int main(){
         break;
     }
 
-    if (marks > 50)
+    if (marks >=50)
     {
         cout << "You are eligible for next level";
     }else{
